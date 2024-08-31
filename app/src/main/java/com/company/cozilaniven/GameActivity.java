@@ -84,7 +84,7 @@ public class GameActivity extends AppCompatActivity {
         }
     }
     private void clickBall1(View v) {
-        action(GameActivity.this);`
+        action(GameActivity.this);
         if (!isGame) {
             return;
         }
